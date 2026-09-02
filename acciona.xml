@@ -5,8 +5,16 @@
     <link>https://www.acciona.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA</description>
     <language>es</language>
-    <lastBuildDate>Wed, 02 Sep 2026 12:37:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:32:18 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACCIONA firma contrato de saneamiento para 85 municipios en Paraíba, Brasil</title>
+      <link>https://www.acciona.com/es/actualidad/noticias/acciona-firma-contrato-saneamiento-85-municipios-paraiba-brasil</link>
+      <description>La ceremonia de firma, celebrada en João Pessoa (PB), contó con la presencia del gobernador Lucas Ri...</description>
+      <category>Agua</category>
+      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-firma-contrato-saneamiento-85-municipios-paraiba-brasil</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ACCIONA Energía instalará dos nuevas baterías en España</title>
       <link>https://www.acciona.com/es/actualidad/noticias/acciona-energia-instalara-dos-nuevas-baterias-espana</link>
@@ -401,14 +409,6 @@
       <category>Energía</category>
       <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-energia-completa-repotenciacion-parque-eolico-tahivilla</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA se adjudica un nuevo proyecto ferroviario en Queensland (Australia)</title>
-      <link>https://www.acciona.com/es/actualidad/noticias/acciona-adjudica-nuevo-proyecto-ferroviario-queensland-australia</link>
-      <description>El proyecto pretende satisfacer la elevada demanda de desplazamientos entre Brisbane y Gold Coast an...</description>
-      <category>Transporte</category>
-      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-adjudica-nuevo-proyecto-ferroviario-queensland-australia</guid>
-      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
