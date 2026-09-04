@@ -5,8 +5,16 @@
     <link>https://www.acciona.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA</description>
     <language>es</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:31:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 11:30:31 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACCIONA obtiene la aprobación ambiental para dos líneas de transmisión en Perú</title>
+      <link>https://www.acciona.com/es/actualidad/noticias/acciona-obtiene-aprobacion-ambiental-dos-lineas-transmision-peru</link>
+      <description>Los proyectos Caclic–Jaén Norte e Ica–Poroma reforzarán la red de transmisión eléctrica y contribuir...</description>
+      <category>Transporte</category>
+      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-obtiene-aprobacion-ambiental-dos-lineas-transmision-peru</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ACCIONA firma contrato de saneamiento para 85 municipios en Paraíba, Brasil</title>
       <link>https://www.acciona.com/es/actualidad/noticias/acciona-firma-contrato-saneamiento-85-municipios-paraiba-brasil</link>
@@ -401,14 +409,6 @@
       <category>Corporativo</category>
       <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-empresas-contribuyen-economia-limpia-2026</guid>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA Energía completa la repotenciación del parque eólico Tahivilla</title>
-      <link>https://www.acciona.com/es/actualidad/noticias/acciona-energia-completa-repotenciacion-parque-eolico-tahivilla</link>
-      <description>ACCIONA Energía ha completado con éxito la repotenciación de su parque eólico Tahivilla (84,4MW), en...</description>
-      <category>Energía</category>
-      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-energia-completa-repotenciacion-parque-eolico-tahivilla</guid>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
