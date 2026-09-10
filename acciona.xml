@@ -5,8 +5,16 @@
     <link>https://www.acciona.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA</description>
     <language>es</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:32:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 15:32:36 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACCIONA, elegida mejor empresa de construcción e ingeniería de Brasil por tercer año consecutivo.</title>
+      <link>https://www.acciona.com/es/actualidad/noticias/acciona-elegida-mejor-empresa-de-construccion-e-ingenieria-brasil-tercer-ano-consecutivo</link>
+      <description>El reconocimiento obtenido en el ranking Valor 1000 refuerza el liderazgo de la compañía en proyecto...</description>
+      <category>Transporte</category>
+      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-elegida-mejor-empresa-de-construccion-e-ingenieria-brasil-tercer-ano-consecutivo</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ACCIONA obtiene la aprobación ambiental para dos líneas de transmisión en Perú</title>
       <link>https://www.acciona.com/es/actualidad/noticias/acciona-obtiene-aprobacion-ambiental-dos-lineas-transmision-peru</link>
@@ -401,14 +409,6 @@
       <category>Energía</category>
       <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-construira-mayor-electrolinera-uso-publico-dentro-m30-madrid</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA, entre las 200 empresas que más contribuyen a la economía limpia en 2026</title>
-      <link>https://www.acciona.com/es/actualidad/noticias/acciona-empresas-contribuyen-economia-limpia-2026</link>
-      <description>ACCIONA forma parte del índice 2026 Clean200 hecho público hoy por Corporate Knights y As You Sow qu...</description>
-      <category>Corporativo</category>
-      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-empresas-contribuyen-economia-limpia-2026</guid>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
