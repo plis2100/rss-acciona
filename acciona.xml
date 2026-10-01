@@ -5,8 +5,16 @@
     <link>https://www.acciona.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA</description>
     <language>es</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:45:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:30:17 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las obras maestras del Prado llegan a EEUU en una experiencia inmersiva de realidad virtual</title>
+      <link>https://www.acciona.com/es/actualidad/noticias/obras-maestras-prado-llegan-eeuu-experiencia-inmersiva-realidad-virtual</link>
+      <description>Masterpieces: una experiencia virtual del Museo del Prado, creada por ACCIONA Cultura en colaboració...</description>
+      <category>Corporativo</category>
+      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/obras-maestras-prado-llegan-eeuu-experiencia-inmersiva-realidad-virtual</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ACCIONA, elegida mejor empresa de construcción e ingeniería de Brasil por tercer año consecutivo</title>
       <link>https://www.acciona.com/es/actualidad/noticias/acciona-elegida-mejor-empresa-de-construccion-e-ingenieria-brasil-tercer-ano-consecutivo</link>
@@ -401,14 +409,6 @@
       <category>Corporativo</category>
       <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-eleva-beneficio-neto-803-millones</guid>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA construirá la mayor electrolinera de uso público dentro de la M-30 de Madrid</title>
-      <link>https://www.acciona.com/es/actualidad/noticias/acciona-construira-mayor-electrolinera-uso-publico-dentro-m30-madrid</link>
-      <description>La electrolinera contará con 20 plazas de recarga ultrarrápida de hasta 400kW –19 para turismos y un...</description>
-      <category>Energía</category>
-      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-construira-mayor-electrolinera-uso-publico-dentro-m30-madrid</guid>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
