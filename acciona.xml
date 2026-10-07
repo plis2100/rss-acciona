@@ -5,8 +5,16 @@
     <link>https://www.acciona.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA</description>
     <language>es</language>
-    <lastBuildDate>Tue, 06 Oct 2026 13:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:35:48 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACCIONA inaugura el Centro  de Control que gestionará  una de las mayores  redes eléctricas de Perú</title>
+      <link>https://www.acciona.com/es/actualidad/noticias/acciona-inaugura-centro-control-gestionara-mayores-redes-electricas-peru</link>
+      <description>La nueva instalación permitirá supervisar y gestionar más de 1.000 kilómetros de líneas de transmisi...</description>
+      <category>Transporte</category>
+      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-inaugura-centro-control-gestionara-mayores-redes-electricas-peru</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Las obras maestras del Prado llegan a EEUU en una experiencia inmersiva de realidad virtual</title>
       <link>https://www.acciona.com/es/actualidad/noticias/obras-maestras-prado-llegan-eeuu-experiencia-inmersiva-realidad-virtual</link>
@@ -401,14 +409,6 @@
       <category>Energía</category>
       <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-energia-instala-sistema-autoconsumo-solar-descarbonizar-planta-graftech-navarra</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA eleva su beneficio neto a €803 millones (+90,4%)</title>
-      <link>https://www.acciona.com/es/actualidad/noticias/acciona-eleva-beneficio-neto-803-millones</link>
-      <description>ACCIONA cerró 2025 con un resultado neto de €803 millones (+90,4%)</description>
-      <category>Corporativo</category>
-      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-eleva-beneficio-neto-803-millones</guid>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
