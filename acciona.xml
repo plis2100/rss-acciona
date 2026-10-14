@@ -5,8 +5,16 @@
     <link>https://www.acciona.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA</description>
     <language>es</language>
-    <lastBuildDate>Tue, 13 Oct 2026 14:22:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 12:05:03 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACCIONA se adjudica un gran proyecto de transmisión eléctrica para descarbonizar Australia Occidental</title>
+      <link>https://www.acciona.com/es/actualidad/noticias/acciona-se-adjudica-gran-proyecto-transmision-electrica-descarbonizar-australia-occidental</link>
+      <description>El proyecto, denominado Clean Energy Link East asciende a AU$655 millones (€410 millones) y permitir...</description>
+      <category>Transporte</category>
+      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-se-adjudica-gran-proyecto-transmision-electrica-descarbonizar-australia-occidental</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ACCIONA inaugura el Centro  de Control que gestionará  una de las mayores  redes eléctricas de Perú</title>
       <link>https://www.acciona.com/es/actualidad/noticias/acciona-inaugura-centro-control-gestionara-mayores-redes-electricas-peru</link>
@@ -401,14 +409,6 @@
       <category>Sostenibilidad e innovación</category>
       <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-obtiene-certificacion-iso-compras-sostenibles-aenor</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA Energía instala un sistema de autoconsumo solar para descarbonizar la planta de GrafTech en Navarra</title>
-      <link>https://www.acciona.com/es/actualidad/noticias/acciona-energia-instala-sistema-autoconsumo-solar-descarbonizar-planta-graftech-navarra</link>
-      <description>ACCIONA Energía ha completado la instalación de un sistema de autoconsumo fotovoltaico en la sede pr...</description>
-      <category>Energía</category>
-      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-energia-instala-sistema-autoconsumo-solar-descarbonizar-planta-graftech-navarra</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
