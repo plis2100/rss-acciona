@@ -5,8 +5,17 @@
     <link>https://www.acciona.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA</description>
     <language>es</language>
-    <lastBuildDate>Wed, 14 Oct 2026 12:05:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:42:09 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACCIONA, adjudicataria  preferente de un megaproyecto  de transmisión de eólica marina  en Australia</title>
+      <link>https://www.acciona.com/es/actualidad/noticias/acciona-adjudicataria-preferente-megaproyecto-transmision-eolica-marina-australia</link>
+      <description>Construirá y operará durante 30 años la red que transportará 2GW de energía limpia en el estado de V...</description>
+      <category>Transporte</category>
+      <category>Energía</category>
+      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-adjudicataria-preferente-megaproyecto-transmision-eolica-marina-australia</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ACCIONA se adjudica un gran proyecto de transmisión eléctrica para descarbonizar Australia Occidental</title>
       <link>https://www.acciona.com/es/actualidad/noticias/acciona-se-adjudica-gran-proyecto-transmision-electrica-descarbonizar-australia-occidental</link>
@@ -401,14 +410,6 @@
       <category>Corporativo</category>
       <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-obtiene-certificacion-aenor-compromiso-accesibilidad</guid>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA obtiene la certificación ISO 20400 en Compras Sostenibles de AENOR</title>
-      <link>https://www.acciona.com/es/actualidad/noticias/acciona-obtiene-certificacion-iso-compras-sostenibles-aenor</link>
-      <description>La certificación reconoce las mejores prácticas de la compañía en la gestión de su cadena de suminis...</description>
-      <category>Sostenibilidad e innovación</category>
-      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-obtiene-certificacion-iso-compras-sostenibles-aenor</guid>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
