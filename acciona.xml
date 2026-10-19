@@ -5,8 +5,24 @@
     <link>https://www.acciona.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA</description>
     <language>es</language>
-    <lastBuildDate>Sun, 18 Oct 2026 14:40:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:35:42 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACCIONA Energía inicia la operación comercial de dos parques eólicos en Croacia</title>
+      <link>https://www.acciona.com/es/actualidad/noticias/acciona-energia-inicial-operacion-comercial-parques-eolicos-croacia</link>
+      <description>ACCIONA Energía ha completado la puesta en marcha y la entrada en operación comercial de los parques...</description>
+      <category>Energía</category>
+      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-energia-inicial-operacion-comercial-parques-eolicos-croacia</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ACCIONA construye el nuevo circuito de Fórmula 1 de Madrid en tiempo récord</title>
+      <link>https://www.acciona.com/es/actualidad/noticias/acciona-construye-nuevo-circuito-formula-1-madrid-tiempo-record</link>
+      <description>La ejecución, en sólo 16 meses, ha permitido tener la pista a tiempo para la celebración del Gran Pr...</description>
+      <category>Transporte</category>
+      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-construye-nuevo-circuito-formula-1-madrid-tiempo-record</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ACCIONA, adjudicataria  preferente de un megaproyecto  de transmisión de eólica marina  en Australia</title>
       <link>https://www.acciona.com/es/actualidad/noticias/acciona-adjudicataria-preferente-megaproyecto-transmision-eolica-marina-australia</link>
@@ -394,22 +410,6 @@
       <category>Transporte</category>
       <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-finaliza-construccion-tunel-viaducto-tijuana-mexico</guid>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA impulsa un ciclo de FP dual y crea una oficina de formación profesional</title>
-      <link>https://www.acciona.com/es/actualidad/noticias/acciona-impulsa-un-ciclo-de-fp-dual-y-crea-una-oficina-de-formacion-profesional</link>
-      <description>TÍTULO PROPIO: El programa, impartido por el Instituto Tomás y Valiente (Madrid), formará perfiles a...</description>
-      <category>Corporativo</category>
-      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-impulsa-un-ciclo-de-fp-dual-y-crea-una-oficina-de-formacion-profesional</guid>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA obtiene la certificación de AENOR por su compromiso con la accesibilidad</title>
-      <link>https://www.acciona.com/es/actualidad/noticias/acciona-obtiene-certificacion-aenor-compromiso-accesibilidad</link>
-      <description>ACCIONA ha obtenido la certificación ‘Organización comprometida con la Accesibilidad 360º’ otorgada ...</description>
-      <category>Corporativo</category>
-      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-obtiene-certificacion-aenor-compromiso-accesibilidad</guid>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
