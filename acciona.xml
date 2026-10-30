@@ -5,8 +5,16 @@
     <link>https://www.acciona.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA</description>
     <language>es</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:10:34 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACCIONA Energía inaugura 120 nuevos puntos de recarga de vehículos eléctricos en centros comerciales de Madrid</title>
+      <link>https://www.acciona.com/es/actualidad/noticias/acciona-energia-inaugura-nuevos-puntos-recarga-vehiculos-electricos-centros-comerciales-madrid</link>
+      <description>ACCIONA Energía ha puesto en marcha dos nuevas estaciones de recarga para vehículos eléctricos en lo...</description>
+      <category>Energía</category>
+      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-energia-inaugura-nuevos-puntos-recarga-vehiculos-electricos-centros-comerciales-madrid</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ACCIONA Energía inicia la operación comercial de dos parques eólicos en Croacia</title>
       <link>https://www.acciona.com/es/actualidad/noticias/acciona-energia-inicial-operacion-comercial-parques-eolicos-croacia</link>
@@ -401,14 +409,6 @@
       <category>Transporte</category>
       <category>Ciudades</category>
       <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-real-betis-inician-obras-remodelacion-estadio-benito-villamarin</guid>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA finaliza la construcción de un túnel y un viaducto en Tijuana (México)</title>
-      <link>https://www.acciona.com/es/actualidad/noticias/acciona-finaliza-construccion-tunel-viaducto-tijuana-mexico</link>
-      <description>El objetivo del túnel “El Soler” y el “Viaducto Matadero” es mejorar la circulación en un corredor c...</description>
-      <category>Transporte</category>
-      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-finaliza-construccion-tunel-viaducto-tijuana-mexico</guid>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
