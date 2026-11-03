@@ -5,8 +5,16 @@
     <link>https://www.acciona.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA</description>
     <language>es</language>
-    <lastBuildDate>Mon, 02 Nov 2026 16:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:27:37 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACCIONA Energía construirá tres nuevas baterías en República Dominicana</title>
+      <link>https://www.acciona.com/es/actualidad/noticias/acciona-energia-construira-tres-nuevas-baterias-republica-dominicana</link>
+      <description>ACCIONA Energía ha anunciado hoy la construcción de tres sistemas de almacenamiento de energía en ba...</description>
+      <category>Energía</category>
+      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-energia-construira-tres-nuevas-baterias-republica-dominicana</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ACCIONA Energía inaugura 120 nuevos puntos de recarga de vehículos eléctricos en centros comerciales de Madrid</title>
       <link>https://www.acciona.com/es/actualidad/noticias/acciona-energia-inaugura-nuevos-puntos-recarga-vehiculos-electricos-centros-comerciales-madrid</link>
@@ -401,15 +409,6 @@
       <category>Energía</category>
       <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-energia-cierra-contratos-descarbonizar-industria-electrointensiva-italia</guid>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA y el Real Betis inician las obras de remodelación del Estadio Benito Villamarín</title>
-      <link>https://www.acciona.com/es/actualidad/noticias/acciona-real-betis-inician-obras-remodelacion-estadio-benito-villamarin</link>
-      <description>Comprende la construcción de una nueva grada de preferencia, un edificio terciario anexo y diversos ...</description>
-      <category>Transporte</category>
-      <category>Ciudades</category>
-      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-real-betis-inician-obras-remodelacion-estadio-benito-villamarin</guid>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
