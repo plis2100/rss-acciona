@@ -5,8 +5,16 @@
     <link>https://www.acciona.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA</description>
     <language>es</language>
-    <lastBuildDate>Wed, 04 Nov 2026 14:42:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:46:25 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Silence presenta su nuevo scooter ‘S02 Paddock’ en el Salón Internacional de la Moto de Milán</title>
+      <link>https://www.acciona.com/es/actualidad/noticias/silence-presenta-su-nuevo-scooter-s02-paddock-en-el-salon-internacional-de-la-moto-de-milan</link>
+      <description>El modelo, que utilizarán los pilotos de Ducati en MotoGP y WorldSBK para sus desplazamientos por el...</description>
+      <category>Ciudades</category>
+      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/silence-presenta-su-nuevo-scooter-s02-paddock-en-el-salon-internacional-de-la-moto-de-milan</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ACCIONA Energía construirá tres nuevas baterías en República Dominicana</title>
       <link>https://www.acciona.com/es/actualidad/noticias/acciona-energia-construira-tres-nuevas-baterias-republica-dominicana</link>
@@ -401,14 +409,6 @@
       <category>Transporte</category>
       <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-inicia-obras-autopista-sr400-atlanta</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA Energía cierra contratos para descarbonizar la industria electrointensiva en Italia</title>
-      <link>https://www.acciona.com/es/actualidad/noticias/acciona-energia-cierra-contratos-descarbonizar-industria-electrointensiva-italia</link>
-      <description>ACCIONA Energía ha firmado acuerdos bilaterales por un total de 800GWh de energía renovable para apo...</description>
-      <category>Energía</category>
-      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-energia-cierra-contratos-descarbonizar-industria-electrointensiva-italia</guid>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
