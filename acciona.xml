@@ -5,8 +5,16 @@
     <link>https://www.acciona.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA</description>
     <language>es</language>
-    <lastBuildDate>Tue, 17 Nov 2026 16:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:48:44 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACCIONA Energía suministrará electricidad a universidades y centros de investigación de Cataluña y Madrid</title>
+      <link>https://www.acciona.com/es/actualidad/noticias/acciona-energia-suministrara-electricidad-universidades-centros-investigacion-cataluna-madrid</link>
+      <description>ACCIONA Energía se ha adjudicado un contrato de €60 millones para suministrar electricidad a 24 univ...</description>
+      <category>Energía</category>
+      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-energia-suministrara-electricidad-universidades-centros-investigacion-cataluna-madrid</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Silence presenta su nuevo scooter ‘S02 Paddock’ en el Salón Internacional de la Moto de Milán</title>
       <link>https://www.acciona.com/es/actualidad/noticias/silence-presenta-su-nuevo-scooter-s02-paddock-en-el-salon-internacional-de-la-moto-de-milan</link>
@@ -401,14 +409,6 @@
       <category>Corporativo</category>
       <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-cierra-ventas-alineado-taxomia-europea-actividades-sostenibles</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA inicia las obras de la autopista SR400 de Atlanta</title>
-      <link>https://www.acciona.com/es/actualidad/noticias/acciona-inicia-obras-autopista-sr400-atlanta</link>
-      <description>Una vez finalizado, el proyecto mejorará la fiabilidad de los tiempos de desplazamiento, aumentará l...</description>
-      <category>Transporte</category>
-      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-inicia-obras-autopista-sr400-atlanta</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
