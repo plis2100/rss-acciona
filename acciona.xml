@@ -5,8 +5,16 @@
     <link>https://www.acciona.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA</description>
     <language>es</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:53:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:36:32 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACCIONA comienza a prestar servicios de handling en tres aeropuertos de Honduras</title>
+      <link>https://www.acciona.com/es/actualidad/noticias/acciona-comienza-a-prestar-servicios-de-handling-en-tres-aeropuertos-de-honduras</link>
+      <description>ACCIONA inicia servicios de handling en los aeropuertos de Tegucigalpa, San Pedro Sula y Roatán (Hon...</description>
+      <category>Transporte</category>
+      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-comienza-a-prestar-servicios-de-handling-en-tres-aeropuertos-de-honduras</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ACCIONA Energía suministrará electricidad a universidades y centros de investigación de Cataluña y Madrid</title>
       <link>https://www.acciona.com/es/actualidad/noticias/acciona-energia-suministrara-electricidad-universidades-centros-investigacion-cataluna-madrid</link>
@@ -401,14 +409,6 @@
       <category>Agua</category>
       <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-firma-contrato-saneamiento-153-municipios-pernambuco-brasil</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA cierra 2025 con el 89,8% de sus ventas alineado con la taxonomía europea de actividades sostenibles</title>
-      <link>https://www.acciona.com/es/actualidad/noticias/acciona-cierra-ventas-alineado-taxomia-europea-actividades-sostenibles</link>
-      <description>ACCIONA cerró el pasado ejercicio su Plan Director de Sostenibilidad 2021-2025 (PDS 2025) con el 89,...</description>
-      <category>Corporativo</category>
-      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-cierra-ventas-alineado-taxomia-europea-actividades-sostenibles</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
