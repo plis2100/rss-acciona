@@ -5,8 +5,16 @@
     <link>https://www.acciona.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA</description>
     <language>es</language>
-    <lastBuildDate>Sun, 22 Nov 2026 14:42:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 17:55:58 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACCIONA suma una nueva planta de tratamiento de aguas en Paraguay</title>
+      <link>https://www.acciona.com/es/actualidad/noticias/acciona-suma-una-nueva-planta-tratamiento-aguas-paraguay</link>
+      <description>ACCIONA construirá una planta de tratamiento de aguas residuales en Ciudad del Este, Paraguay, por U...</description>
+      <category>Agua</category>
+      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-suma-una-nueva-planta-tratamiento-aguas-paraguay</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ACCIONA comienza a prestar servicios de handling en tres aeropuertos de Honduras</title>
       <link>https://www.acciona.com/es/actualidad/noticias/acciona-comienza-a-prestar-servicios-de-handling-en-tres-aeropuertos-de-honduras</link>
@@ -401,14 +409,6 @@
       <category>Transporte</category>
       <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-adjudica-construccion-torre-control-nuevo-aeropuerto-andes</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA firma el contrato de saneamiento para 153 municipios de Pernambuco (Brasil)</title>
-      <link>https://www.acciona.com/es/actualidad/noticias/acciona-firma-contrato-saneamiento-153-municipios-pernambuco-brasil</link>
-      <description>ACCIONA y su socio local BRK han firmado hoy el contrato de concesión para la prestación de servicio...</description>
-      <category>Agua</category>
-      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-firma-contrato-saneamiento-153-municipios-pernambuco-brasil</guid>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
