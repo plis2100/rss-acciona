@@ -5,8 +5,16 @@
     <link>https://www.acciona.com/es/actualidad/noticias</link>
     <description>Últimas noticias publicadas por ACCIONA</description>
     <language>es</language>
-    <lastBuildDate>Tue, 24 Nov 2026 17:55:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:24:19 +0000</lastBuildDate>
     <ns0:link href="https://www.acciona.com/es/actualidad/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACCIONA transforma el Huerto de Calixto y Melibea en el epicentro de la Navidad salmantina</title>
+      <link>https://www.acciona.com/es/actualidad/noticias/acciona-transforma-el-huerto-de-calixto-y-melibea-en-el-epicentro-de-la-navidad-salmantina</link>
+      <description>‘El jardín de las estrellas y los deseos’ reúne diez instalaciones de luz, sonido y arte digital ins...</description>
+      <category>Ciudades</category>
+      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-transforma-el-huerto-de-calixto-y-melibea-en-el-epicentro-de-la-navidad-salmantina</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ACCIONA suma una nueva planta de tratamiento de aguas en Paraguay</title>
       <link>https://www.acciona.com/es/actualidad/noticias/acciona-suma-una-nueva-planta-tratamiento-aguas-paraguay</link>
@@ -400,14 +408,6 @@
       <description>Se trata de una concesión de colaboración público-privada a largo plazo, en virtud de la cual el con...</description>
       <category>Transporte</category>
       <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-comienza-obras-nuevo-puente-i-10-sobre-rio-calcasieu-luisiana</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACCIONA se adjudica la construcción de la torre de control de un nuevo aeropuerto en los Andes</title>
-      <link>https://www.acciona.com/es/actualidad/noticias/acciona-adjudica-construccion-torre-control-nuevo-aeropuerto-andes</link>
-      <description>El proyecto forma parte del plan de inversiones del Ministerio de Transportes y Comunicaciones de Pe...</description>
-      <category>Transporte</category>
-      <guid isPermaLink="true">https://www.acciona.com/es/actualidad/noticias/acciona-adjudica-construccion-torre-control-nuevo-aeropuerto-andes</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
